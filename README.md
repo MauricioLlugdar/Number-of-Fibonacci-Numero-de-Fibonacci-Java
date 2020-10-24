@@ -3,7 +3,7 @@
 <html>
   <head>
     
-    <meta charset="UTF-8">
+    <meta charset="UTF-8"/>
   </head>
   <body>
 <h1 style="font-weight= bold">Serie de Fibonacci</h1>
